@@ -2,5 +2,29 @@
   {
     "repository": "android_device_xiaomi_sm8150-common",
     "target_path": "device/xiaomi/sm8150-common"
+  },
+  {
+    "remote": "github",
+    "repository": "android_xiaomi_kernel_vayu",
+    "target_path": "kernel/xiaomi/vayu",
+    "branch": "eleven"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "lineage-18.1"
+  },
+  {
+    "remote": "blobs",
+    "repository": "android_vendor_xiaomi_vayu",
+    "target_path": "vendor/xiaomi/vayu",
+    "branch": "eleven"
+  },
+  {
+    "remote": "blobs",
+    "repository": "android_vendor_xiaomi_sm8150-common",
+    "target_path": "vendor/xiaomi/sm8150-common",
+    "branch": "eleven"
   }
 ]
